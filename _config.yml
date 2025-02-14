@@ -3,6 +3,6 @@ remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme
 
-title: "Mi Blog de Programación"
+title: "Blog.dev"
 description: "Publicaciones sobre desarrollo y tecnología."
 show_downloads: false
